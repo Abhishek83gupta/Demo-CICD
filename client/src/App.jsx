@@ -37,7 +37,7 @@ export default function App() {
   return (
     <div className="min-h-screen bg-gray-100 flex flex-col items-center py-12 px-4">
       <h1 className="text-3xl font-bold text-gray-800 mb-8">
-        🚀 Github Actions CI/CD
+        🚀 Github Actions CI/CD Testing..........
       </h1>
 
       <div className="flex flex-wrap gap-4 mb-6">
