@@ -50,7 +50,7 @@ jobs:
       - name: Clean npm cache & remove existing dependencies
         working-directory: ./client
         run: |
-          rm -rf node_modules package-lock.json
+          rm -rf node_modules 
           npm cache clean --force
 
       - name: Install frontend dependencies
